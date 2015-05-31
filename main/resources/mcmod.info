@@ -1,0 +1,16 @@
+[
+{
+  "modid": "arcanearteries",
+  "name": "Arcane Arteries",
+  "description": "An arcane upgrade for Blood Magic",
+  "version": "0.3",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["jordsta95"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
